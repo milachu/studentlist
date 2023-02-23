@@ -4,6 +4,7 @@ package studentlist;
 /**
  *
  * @author Megha Patel 
+ * @author Xiaoxu Chu
  */
 public class Student { 
     private String studentName;
